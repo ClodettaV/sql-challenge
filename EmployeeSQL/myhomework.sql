@@ -16,6 +16,7 @@ CREATE TABLE departments (
 SELECT * FROM departments;
 
 	----------------------
+	
 DROP TABLE dept_emp
 
 CREATE TABLE dept_emp (
@@ -28,6 +29,7 @@ CREATE TABLE dept_emp (
 SELECT * FROM dept_emp;
 
 	----------------------
+	
 DROP TABLE dept_manager
 
 CREATE TABLE dept_manager (
